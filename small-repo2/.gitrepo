@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:yfblock/small-repo2-test.git
 	branch = main
-	commit = 31f5a3ef9603ac24458218d00203781dfeddd398
-	parent = f0cf057d286c785dc3410f0f16f0b763451088db
+	commit = fb6ac2c9e306bdc9ed9f457e3658f108f8e0d1b0
+	parent = 571c29c473a3245128f49f59b2ea1fc96f38d7e6
 	method = merge
 	cmdver = 0.4.6
